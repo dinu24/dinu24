@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Dinu K Reji
+- ## 👋 Hi, I’m Dinu K Reji
 - 🎓 I'm an Electrical and Electronics Engineering student ⚡
 - 👀 I’m interested in Tinkering🔧, Reverse Engineering🔁, Web designing🕸
 - 🌱 I’m currently learning App development📱, Block⛓chain, Machine Learning💻🎓
